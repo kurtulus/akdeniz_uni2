@@ -1,4 +1,4 @@
-akdeniz_uni2
-============
+akdeniz_uni
+===========
 
-Akdeniz üniversitesi uygulama 2
+akdeniz üniversitesi uygulama
